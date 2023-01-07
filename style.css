@@ -100,7 +100,8 @@ nav, p, a {
 
 
 main {
-
+    width: 95%;
+    margin: auto;
     font-family: var(--font);
 }
 
