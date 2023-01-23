@@ -39,6 +39,7 @@ nav > p > a {
     padding: 3px;
     border-radius: 20px;
     margin: 3px;
+    text-decoration: none;
 }
 
 nav, p, a {
